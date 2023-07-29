@@ -1,6 +1,7 @@
 #grid {
-    width: 316px;
-    height: 312px;
+    width: 320px;
+    height: 318px;
+    background-color: #abcdab;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
